@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anupal228-del.github.io/BluWis-FourforAll/sitemap.xml
